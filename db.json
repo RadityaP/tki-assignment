@@ -1,0 +1,70 @@
+{
+  "player": [
+    {
+      "id": "1",
+      "name": "Player 1",
+      "time": 20,
+      "stars": 10
+    },
+    {
+      "id": "2",
+      "name": "Player 2",
+      "time": 14,
+      "stars": 8
+    },
+    {
+      "id": "4",
+      "name": "Player 10",
+      "time": 90,
+      "stars": 20
+    },
+    {
+      "id": "a9e3d565-3141-438b-bb41-94c1b402c801",
+      "name": "Gagal",
+      "time": 10,
+      "stars": 0
+    },
+    {
+      "id": "e08dd503-c07f-4d90-abf3-3ebf120c72ee",
+      "name": "Tidak",
+      "time": 3,
+      "stars": 0
+    },
+    {
+      "id": "9c1bb0ff-2954-4920-a506-c22fba41eaa6",
+      "name": "Radit",
+      "time": 2,
+      "stars": 1
+    },
+    {
+      "id": "5dcc0cf8-c917-4418-b171-99456af4cb21",
+      "name": "Radit Coba Lagi",
+      "time": 2,
+      "stars": 0
+    },
+    {
+      "id": "1c7f8d3a-0695-48d0-ae37-5931830d405d",
+      "name": "Tidak Bisa",
+      "time": 3,
+      "stars": 0
+    },
+    {
+      "id": "9791b7f2-bdc6-4d9d-9744-9a50ff34fc96",
+      "name": "Tidak Bisa",
+      "time": 3,
+      "stars": 0
+    },
+    {
+      "id": "55223354-36ed-415a-ab01-ff5b5bde485f",
+      "name": "Gagal Lagi",
+      "time": 3,
+      "stars": 1
+    },
+    {
+      "id": "93594d3a-b326-4aff-bafe-b8b79a4d0450",
+      "name": "Gagal Terus",
+      "time": 3,
+      "stars": 0
+    }
+  ]
+}
